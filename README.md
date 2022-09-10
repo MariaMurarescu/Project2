@@ -12,6 +12,7 @@ Also,
 Short demo added here.
 
 Architectural Diagram
+
 <img src = "images/diagram%20flow.png>
 
 
