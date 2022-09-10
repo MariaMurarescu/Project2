@@ -133,8 +133,8 @@ Enable Github Actions and replace yml code with below:
       run: |
         make test
         
-  I verified that remote test pass in GitHub Actions:
-  ![](/images/passing%20GitHub%20Actions.png)
+I verified that remote test pass in GitHub Actions:
+![](/images/passing%20GitHub%20Actions.png)
   
 **Continuous Delivery on Azure**
 
@@ -168,9 +168,8 @@ Set up CD workflow
 ![](/main/images/build%26deploy.png)  
 
 ![](/main/images/deployment%20job.png) 
-
-        
-From now every change made to your code will trigger the CI/CD pipeline and update your webapp.
+   
+From now, every change made to your code will trigger the CI/CD pipeline and update your webapp.
         
 Final step
 From Azure CLI do Git pull and push that everything will be update
