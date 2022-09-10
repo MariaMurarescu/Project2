@@ -20,10 +20,10 @@ Also,
 
 **Project plan**
 
-To visualize the evolution of the project and be sure that all actions are done in time a spreadsheet with a quarterly and yearly plan was designed, 
+To visualize the evolution of the project and be sure that all actions are done in time a [spreadsheet](https://uptro29158-my.sharepoint.com/:x:/g/personal/maria_miculescu_student_upt_ro/Eb_MAS5xkxZCsWX8-zZwyaEBbg9Dmb4btCEexF_CxqgbOw?e=Nd0z1W) with a quarterly and yearly plan was designed, 
 for each activity an estimation of difficulty was added. 
 
-To be more easy to catch from a single view, a simply Trello board was also included. 
+To be more easy to catch from a single view, a simply [Trello](https://trello.com/b/D0sgyFv7/project2) board was also included. 
 
 **CI: Set Up Azure Cloud Shell**
 
@@ -134,6 +134,7 @@ Enable Github Actions and replace yml code with below:
         make test
         
 I verified that remote test pass in GitHub Actions:
+
 ![](/images/passing%20GitHub%20Actions.png)
   
 **Continuous Delivery on Azure**
@@ -164,10 +165,10 @@ Next, select Pipeline and create a new one
 Create GithHub integreation
 Configure python to Linux Webapp on Azure
 Set up CD workflow
-        
-![](/main/images/build%26deploy.png)  
+  
+![](/images/build%26deploy.png)  
 
-![](/main/images/deployment%20job.png) 
+![](/images/deployment%20job.png) 
    
 From now, every change made to your code will trigger the CI/CD pipeline and update your webapp.
         
