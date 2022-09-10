@@ -14,6 +14,7 @@ Short demo added here.
 Architectural Diagram
 
 <img src = "images/diagram%20flow.png>
+![](images/images/digram%20flow.png)
 
 
 
