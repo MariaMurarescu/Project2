@@ -8,13 +8,14 @@ Also,
 -	Creating a Github Actions with a Makefile and requirement.txt file
 -	Application code to perform initial lint, test and install cycle
 -	Integrating the project with Azure Pipeline to enable Continuous Delivery to Azure Pipeline
--	
+
 Short demo added here.
 
 Architectural Diagram
 
-<img src = "images/diagram%20flow.png>
-![](images/images/digram%20flow.png)
+![](/images/diagram%20flow.png)
+
+
 
 
 
