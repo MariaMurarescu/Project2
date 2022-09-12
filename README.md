@@ -136,6 +136,11 @@ Enable Github Actions and replace yml code with below:
 I verified that remote test pass in GitHub Actions:
 
 ![](/images/passing%20GitHub%20Actions.png)
+
+GitHub actions badge
+
+![Python application test with Github Actions](https://github.com/MariaMurarescu/Project2/actions/workflows/main.yml/badge.svg)
+
   
 **Continuous Delivery on Azure**
 
