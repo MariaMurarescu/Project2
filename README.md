@@ -173,7 +173,11 @@ Set up CD workflow
 From now, every change made to your code will trigger the CI/CD pipeline and update your webapp.
         
 Final step
-From Azure CLI do Git pull and push that everything will be update
+From Azure CLI do Git pull and push that everything will be update.
+	
+How to improve the project in the future
+
+For the application I would add more fetaures to offer a frendly interface.
 
         
 
