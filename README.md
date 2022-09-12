@@ -180,6 +180,11 @@ From now, every change made to your code will trigger the CI/CD pipeline and upd
 Final step
 From Azure CLI do Git pull and push that everything will be update.
 	
+Performance validation for webapp will be tested with locust.
+Replace <yourappname> in the provided configuration and call locust
+
+![](/images/running%20locust.png)
+	
 **How to improve the project in the future**
 
 For the application, I would add more fetaures to offer a frendly interface.
